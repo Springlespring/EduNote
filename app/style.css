@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: rgb(194, 114, 247);
+    background: linear-gradient(90deg, rgb(201, 152, 233) 0%, rgb(238, 141, 141) 50%, rgb(240, 187, 114) 100%);
+    font-family: "Times New Roman", Serif;  
+    }
+
+h1 {
+        text-align: center;
+        padding-top: 15px;
+   }
+button {
+    height: 50px;
+    width: 200px;
+    display: inline-block;
+    padding: 15px 15px;
+    font-size: 17px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: rgb(185, 146, 86);
+    border: none;
+    border-radius: 25px;
+  }
+  label{
+        text-align: center;
+        padding-top: 15px;
+  }
